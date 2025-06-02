@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Amor: Reavalie laços familiares e busque harmonia no lar. Finanças: Evite gastos desnecessários; priorize o essencial. Carreira: Inovações no ambiente de trabalho podem trazer bons frutos; esteja receptivo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Amor: Confie na sua intuição para tomar decisões amorosas.
+Finanças: Atenção aos pequenos gastos que podem se acumular.
+Carreira: Comunicação eficaz será sua aliada; expresse suas ideias com clareza.​</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Amor: Reflita sobre relacionamentos passados; há lições valiosas a serem aprendidas.
+Finanças: Avalie seus hábitos de consumo e evite gastos impulsivos.
+Carreira: Novas oportunidades podem surgir; esteja aberto a mudanças e colaborações.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Amor: Busque estabilidade emocional e aproveite momentos de prazer com o parceiro.
+Finanças: O período favorece investimentos sólidos e planejamento financeiro.
+Carreira: Sua criatividade está em alta; use-a para inovar em projetos profissionais.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Amor: Comunique-se claramente para evitar mal-entendidos.
+Finanças: Evite decisões financeiras precipitadas; analise bem antes de agir.
+Carreira: Networking pode abrir portas; mantenha-se atento a novas conexões.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Amor: Valorize momentos em família e fortaleça laços afetivos.
+Finanças: Cuidado com despesas inesperadas; mantenha uma reserva.
+Carreira: Reconhecimento profissional está próximo; continue se dedicando.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Amor: Evite possessividade; confie mais no parceiro.
+Finanças: Possibilidade de ganhos extras; aproveite com sabedoria.
+Carreira: Liderança em destaque; assuma responsabilidades com confiança.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Amor: Diálogos sinceros fortalecem o relacionamento.
+Finanças: Momento propício para economizar e planejar investimentos futuros.
+Carreira: Organização e foco trarão reconhecimento; continue aprimorando suas habilidades.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Amor: Busque equilíbrio nas relações; evite confrontos desnecessários.
+Finanças: Controle os gastos e evite compras por impulso.
+Carreira: Parcerias profissionais podem ser benéficas; esteja aberto a colaborações.</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Amor: Emoções intensas podem surgir; mantenha o diálogo aberto.
+Finanças: Evite investimentos arriscados; prefira opções mais seguras.
+Carreira: Desafios à vista; encare-os como oportunidades de crescimento.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Amor: Aventuras românticas estão no ar; aproveite com responsabilidade.
+Finanças: Planeje seus gastos para futuras viagens ou cursos.
+Carreira: Novas aprendizagens podem impulsionar sua carreira; invista em conhecimento.​</descricao>
+
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Amor: Conversas sobre o futuro fortalecem o relacionamento.
+Finanças: Momento ideal para revisar e ajustar seu planejamento financeiro.
+Carreira: Estruture seus projetos com cuidado; a estabilidade virá com o tempo.​</descricao>
+
+    </signo>
+
+</signos>
